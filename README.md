@@ -3,7 +3,7 @@
 📧 lsehotra12@gmail.com  | [LinkedIn](https://www.linkedin.com/in/lovely-sehotra-88a39a233/) 
 
 ## 🛠️ About Me
-I am a Full Stack Web Developer with **over 1 year of experience** in building dynamic web applications and Android features. I specialize in JavaScript, React, Node.js, Express, MongoDB, Svelte, and many other modern tools and technologies. I'm passionate about writing clean, efficient, and scalable code, and I'm constantly seeking new challenges and learning opportunities.
+I am a Full Stack Web Developer with **over 2 year of experience** in building dynamic web applications and Android features. I specialize in JavaScript, React, Node.js, Express, MongoDB, Svelte, and many other modern tools and technologies. I'm passionate about writing clean, efficient, and scalable code, and I'm constantly seeking new challenges and learning opportunities.
 
 Currently, I am pursuing a **Master's in Data Science**, expanding my skillset to include **data analytics, machine learning, and geospatial technologies**. I'm also experienced in collaborating across teams and bringing intuitive solutions to complex problems.
 
